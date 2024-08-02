@@ -1,28 +1,38 @@
 [
   {
-    "icon": "Blog",
-    "name": "博客",
-    "link": "https://www.orsrv.me"
-  },
-  {
     "icon": "Compass",
     "name": "起始页",
     "link": "https://nav.ortech.us.kg"
   },
   {
-    "icon": "Link",
+    "icon": "Blog",
+    "name": "博客",
+    "link": "https://www.orsrv.me"
+  }, 
+  {
+    "icon": "Book",
     "name": "短链",
     "link": "https://l.oa.x10.mx"
   },
   {
-    "icon": "Fire",
-    "name": "临时邮箱",
-    "link": "https://webmail.ortech.us.kg"
-  },
-  {
-    "icon": "Book",
+    "icon": "Cloud",
     "name": "图床1",
     "link": "https://img.orsrv.us.kg"
+  },  
+  {
+    "icon": "LaptopCode",
+    "name": "Linux",
+    "link": "https://linux.ortech.us.kg"
+  },
+    {
+    "icon": "Blog",
+    "name": "博客(备用)",
+    "link": "https://blog.ortech.us.kg"
+  },
+  {
+    "icon": "Compass",
+    "name": "导航页",
+    "link": "https://nav.orsrv.us.kg"
   },
   {
     "icon": "Cloud",
@@ -30,13 +40,13 @@
     "link": "https://img.ortech.us.kg"
   },
   {
-    "icon": "LaptopCode",
-    "name": "Linux",
-    "link": "https://linux.ortech.us.kg"
-  },
-  {
     "icon": "CompactDisc",
     "name": "ChatAPI",
     "link": "https://chatapi.ortech.us.kg"
+  },
+  {
+    "icon": "Fire",
+    "name": "临时邮箱",
+    "link": "https://webmail.ortech.us.kg"
   }
 ]
