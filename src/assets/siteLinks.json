@@ -18,5 +18,15 @@
     "icon": "Fire",
     "name": "临时邮箱",
     "link": "https://webmail.ortech.us.kg"
-  }
+  },
+  {
+    "icon": "Book",
+    "name": "图床1",
+    "link": "https://img.orsrv.us.kg"
+  },
+  {
+    "icon": "Cloud",
+    "name": "图床2",
+    "link": "https://img.ortech.us.kg"
+  }, 
 ]
