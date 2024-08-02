@@ -13,5 +13,10 @@
     "icon": "LaptopCode",
     "name": "短链",
     "link": "https://l.oa.x10.mx"
+  },
+  {
+    "icon": "EmailNew",
+    "name": "临时邮箱",
+    "link": "https://webmail.ortech.us.kg"
   }
 ]
