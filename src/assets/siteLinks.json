@@ -24,7 +24,12 @@
     "name": "Linux",
     "link": "https://linux.ortech.us.kg"
   },
-    {
+  {
+    "icon": "Fire",
+    "name": "今日热榜",
+    "link": "https://hot.ortech.us.kg"
+  },
+  {
     "icon": "Blog",
     "name": "博客(备用)",
     "link": "https://blog.ortech.us.kg"
