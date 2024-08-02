@@ -5,8 +5,7 @@
 简单的小主页，原来的看够了，重新弄了一个
 </p>
 
-![soeosの主页](/screenshots/main.jpg)
-
+![soeosの主页](/screenshots/image.jpg)
 > 主页的 Logo 字体已经过压缩，若用本站 Logo 以外的字母会变回默认字体，这里是 [完整字体](https://file.imsyy.top/font/Other/Pacifico-Regular.ttf)，若无法下载，可将字体目录下的 `Pacifico-Regular-all.ttf` 进行替换
 
 ### 👀 Demo
@@ -94,7 +93,7 @@ docker run -p 12445:12445 -d home
 {
   "icon": "Blog",
   "name": "博客",
-  "link": "https://blog.imsyy.top/"
+  "link": "https://blog.soeos.me"
 },
 ```
 
@@ -230,15 +229,14 @@ if (type == 0) {
 - [Aplayer](https://aplayer.js.org/)
 
 ### API
-
 - [韩小韩 WebAPI 接口](https://api.vvhan.com/)
 - [搏天 API](https://api.btstu.cn/doc/sjbz.php)
 - [教书先生 API](https://api.oioweb.cn/doc/weather/GetWeather)
 - [高德开放平台](https://lbs.amap.com/)
 - [Hitokoto 一言](https://hitokoto.cn/)
 
-## Star History
+<!-- ## Star History -->
 
 <!-- [![Star History Chart](https://api.star-history.com/svg?repos=soeos/home&type=Date)](https://star-history.com/#soeos/home&Date) -->
-
-<a title="SSL" target="_blank" href="https://myssl.com/seal/detail?domain=blog.orsrv.me"><img src="https://img.shields.io/badge/MySSL-安全认证-brightgreen"></a>&nbsp;<a title="CDN" target="_blank" href="https://cdnjs.com/"><img src="https://img.shields.io/badge/CDN-Cloudflare-blue"></a>&nbsp;<a title="Copyright" target="_blank" href="https://orsrv.me/"><img src="https://img.shields.io/badge/Copyright%20%C2%A9%202020--2023-%E7%84%A1%E5%90%8D-red"></a>
+<!-- 
+<a title="SSL" target="_blank" href="https://myssl.com/seal/detail?domain=blog.orsrv.me"><img src="https://img.shields.io/badge/MySSL-安全认证-brightgreen"></a>&nbsp;<a title="CDN" target="_blank" href="https://cdnjs.com/"><img src="https://img.shields.io/badge/CDN-Cloudflare-blue"></a>&nbsp;<a title="Copyright" target="_blank" href="https://orsrv.me/"><img src="https://img.shields.io/badge/Copyright%20%C2%A9%202020--2023-%E7%84%A1%E5%90%8D-red"></a> -->
