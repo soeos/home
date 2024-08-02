@@ -10,7 +10,7 @@
     "link": "https://nav.ortech.us.kg"
   },
   {
-    "icon": "LaptopCode",
+    "icon": "Link",
     "name": "短链",
     "link": "https://l.oa.x10.mx"
   },
@@ -28,5 +28,15 @@
     "icon": "Cloud",
     "name": "图床2",
     "link": "https://img.ortech.us.kg"
+  },
+  {
+    "icon": "LaptopCode",
+    "name": "Linux",
+    "link": "https://linux.ortech.us.kg"
+  },
+  {
+    "icon": "CompactDisc",
+    "name": "ChatAPI",
+    "link": "https://chatapi.ortech.us.kg"
   }
 ]
