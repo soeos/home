@@ -16,9 +16,7 @@
         <span class="hidden">
           &amp;&nbsp;Made&nbsp;by
           <a :href="config.github" target="_blank">
-            <a v-if="siteIcp" href="https://github.com/orsrv" target="_blank">
-            orsrv
-          </a>
+            {{ config.author }}
           </a>
         </span>
         <!-- 站点备案 -->
