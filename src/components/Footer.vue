@@ -19,7 +19,7 @@
             {{ config.author }}
           </a>
         </span>
-        <!-- 站点备案  siteIcp  https://beian.miit.gov.cn-->
+        <!-- 站点备案 -->
         <span>
           &amp;
           <a v-if="siteIcp" href="https://icp.gov.moe/?keyword=20252018" target="_blank">
@@ -47,7 +47,8 @@ import config from "@/../package.json";
 
 const store = mainStore();
 const fullYear = new Date().getFullYear();
-
+//  siteIcp  https://beian.miit.gov.cn
+  
 // 加载配置数据
 // const siteStartDate = ref(import.meta.env.VITE_SITE_START);
 const startYear = ref(
