@@ -19,11 +19,11 @@
             {{ config.author }}
           </a>
         </span>
-        <!-- 站点备案 https://beian.miit.gov.cn-->
+        <!-- 站点备案 {{ siteIcp }} https://beian.miit.gov.cn-->
         <span>
           &amp;
           <a v-if="siteIcp" href="https://icp.gov.moe/?keyword=20252018" target="_blank">
-            {{ siteIcp }}
+            萌ICP备20252018号-1
           </a>
         </span>
       </div>
