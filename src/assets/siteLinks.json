@@ -53,5 +53,10 @@
     "icon": "Fire",
     "name": "GitHubProxy",
     "link": "https://git.orsrv.nyc.mn"
+  },
+  {
+    "icon": "LaptopCode",
+    "name": "TempFile",
+    "link": "https://tempfile.ortech.dpdns.org"
   }
 ]
