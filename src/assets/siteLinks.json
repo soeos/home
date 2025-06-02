@@ -22,7 +22,7 @@
   {
     "icon": "LaptopCode",
     "name": "Linux",
-    "link": "https://linux.ortech.nyc.mn"
+    "link": "https://linux.ortech.nyc.mn/"
   },
   {
     "icon": "Fire",
@@ -36,18 +36,18 @@
   },
   {
     "icon": "Cloud",
-    "name": "导航页1",
+    "name": "导航页",
     "link": "https://nav.521999999.xyz"
   },
   {
     "icon": "Compass",
-    "name": "导航页2",
-    "link": "https://nav.orsrv.nyc.mn"
+    "name": "Status",
+    "link": "https://status.521999999.xyz"
   },
   {
     "icon": "CompactDisc",
     "name": "ChatAPI",
-    "link": "https://chatapi.ortech.nyc.mn"
+    "link": "https://api.orgpt.dpdns.org"
   },
   {
     "icon": "Fire",
