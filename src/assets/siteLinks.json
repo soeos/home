@@ -2,56 +2,56 @@
   {
     "icon": "Compass",
     "name": "起始页",
-    "link": "https://nav.ortech.us.kg"
+    "link": "https://nav.521999999.xyz"
   },
   {
     "icon": "Blog",
     "name": "博客",
-    "link": "https://www.orsrv.me"
+    "link": "https://blog.ortech.nyc.mn"
   }, 
   {
     "icon": "Book",
     "name": "短链",
-    "link": "https://l.oa.x10.mx"
+    "link": "https://l.orgpt.dpdns.org"
   },
   {
     "icon": "Cloud",
-    "name": "图床1",
-    "link": "https://img.orsrv.us.kg"
+    "name": "图床",
+    "link": "https://img.ortech.dpdns.org"
   },  
   {
     "icon": "LaptopCode",
     "name": "Linux",
-    "link": "https://linux.ortech.us.kg"
+    "link": "https://linux.ortech.nyc.mn"
   },
   {
     "icon": "Fire",
-    "name": "今日热榜",
-    "link": "https://hot.ortech.us.kg"
+    "name": "ORTV",
+    "link": "https://tv.ortech.dpdns.org/"
   },
   {
     "icon": "Blog",
     "name": "博客(备用)",
-    "link": "https://blog.ortech.us.kg"
-  },
-  {
-    "icon": "Compass",
-    "name": "导航页",
-    "link": "https://nav.orsrv.us.kg"
+    "link": "https://blog.521999999.xyz"
   },
   {
     "icon": "Cloud",
-    "name": "图床2",
-    "link": "https://img.ortech.us.kg"
+    "name": "导航页1",
+    "link": "https://nav.521999999.xyz"
+  },
+  {
+    "icon": "Compass",
+    "name": "导航页2",
+    "link": "https://nav.orsrv.nyc.mn"
   },
   {
     "icon": "CompactDisc",
     "name": "ChatAPI",
-    "link": "https://chatapi.ortech.us.kg"
+    "link": "https://chatapi.ortech.nyc.mn"
   },
   {
     "icon": "Fire",
-    "name": "临时邮箱",
-    "link": "https://webmail.ortech.us.kg"
+    "name": "GitHubProxy",
+    "link": "https://git.orsrv.nyc.mn"
   }
 ]
